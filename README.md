@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Aishwarya Ghandhi Natarajan
 
-<!--
-**aishwarya-ghandhi/aishwarya-ghandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior QA Engineer | London, UK 🇬🇧**  
+Automation | Mobile & Web Testing | CI/CD | Performance | Shift-Left Quality
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **About Me**  
+I'm a results-driven QA professional with 10+ years of experience testing SaaS platforms, mobile apps (React Native), and web applications. I specialize in building scalable automation frameworks, driving quality-first practices in Agile teams, and improving system observability and resilience.
+
+---
+
+🛠️ **Tech Stack**
+
+- **Languages:** JavaScript, TypeScript, Java, Python, SQL  
+- **Automation:** Playwright, Cypress, Selenium, Appium, WebDriverIO  
+- **API Testing:** Postman, RestAssured, Pact  
+- **Performance Testing:** JMeter, k6  
+- **CI/CD:** Jenkins, GitHub Actions, CircleCI  
+- **Monitoring:** Datadog, Sentry, Firebase  
+- **Cloud & Infra:** AWS, Salesforce Commerce Cloud, BrowserStack, Docker
+
+---
+
+📦 **Featured Projects**
+
+
+---
+
+📈 **Currently Exploring**
+- Shift-right testing (monitoring, feedback loops)
+- Contract testing with Pact
+- Accessibility testing automation
+- GitHub Pages for test reporting
+
+---
+
+📫 **Connect with me**
+- [LinkedIn](https://linkedin.com/in/aishwarya-ghandhi-112b0340)
+- ✉️ naishwaryaghandhi@gmail.com
+
+---
+*“Quality is not just about finding bugs, it’s about preventing them and building confidence in every release.”*
