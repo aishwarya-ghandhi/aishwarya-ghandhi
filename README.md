@@ -13,7 +13,7 @@ I'm a results-driven QA professional with 10+ years of experience testing SaaS p
 🛠️ **Tech Stack**
 
 - **Languages:** JavaScript, TypeScript, Java, Python, SQL  
-- **Automation:** Playwright, Cypress, Selenium, Appium, WebDriverIO  
+- **Automation:** Playwright, Cypress, Selenium, Appium, WebDriverIO, XCUITest
 - **API Testing:** Postman, RestAssured, Pact  
 - **Performance Testing:** JMeter, k6  
 - **CI/CD:** Jenkins, GitHub Actions, CircleCI  
